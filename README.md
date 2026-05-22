@@ -36,6 +36,7 @@
 - 📊 [Benchmark Evaluation](#-benchmark-evaluation)
 - 🔬 [Trace Collection](#-trace-collection)
 - ❓ [FAQ & Troubleshooting](#-faq--troubleshooting)
+- 📍 [Roadmap](#-roadmap)
 - 📄 [License](#-license)
 - 🙏 [Acknowledgments](#-acknowledgments)
 
@@ -946,6 +947,13 @@ The scripts show completion status, elapsed time, and estimated remaining time.
 - 💬 **Discord**: Join our [Discord community](https://discord.com/invite/GPqEnkzQZd)
 - 🐛 **Issues**: Report bugs on [GitHub Issues](https://github.com/MiroMindAI/MiroThinker/issues)
 - 📧 **Contact**: Visit [our website](https://miromind.ai/) for more information
+
+## 📍 Roadmap
+
+- [ ] **Enhanced Multimodal Capabilities** — Improve vision, audio, and video understanding for richer research tasks
+- [ ] **Extended Context Windows** — Support longer documents and more complex research workflows
+- [ ] **Additional Benchmark Support** — Expand evaluation coverage with more research agent benchmarks
+- [ ] **Improved Tool Ecosystem** — Broader integration with external APIs and services
 
 ## 📄 License
 
