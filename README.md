@@ -999,3 +999,5 @@ If you find this project useful in your research, please consider citing:
 ```
 
 [![Star History Chart](https://api.star-history.com/svg?repos=MiroMindAI/MiroThinker&type=Date)](https://star-history.com/#MiroMindAI/MiroThinker&Date)
+
+- Documentation updated for clarity
