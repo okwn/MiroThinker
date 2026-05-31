@@ -60,7 +60,7 @@
 ## 📝 Introduction
 
 ### MiroThinker-1.7
-Our new MiroThinker family represents a significant leap in building reliable agents for long-chain tasks. Engineered with enhanced post-training pipeline, our  MiroThinker-1.7 family achieve SOTA performance in deep research tasks among open-source models.
+Our new MiroThinker family represents a significan't leap in building reliable agents for long-chain tasks. Engineered with enhanced post-training pipeline, our  MiroThinker-1.7 family achieve SOTA performance in deep research tasks among open-source models.
 
 
 **Key Features**
@@ -156,7 +156,7 @@ MiroThinker v1.0 demonstrates strong general-research performance across a broad
 
 In this new version, we introduced three key improvements:
 
-- 📚 **Richer training data** from both English and Chinese sources, yielding significant gains in benchmark performance and generalization
+- 📚 **Richer training data** from both English and Chinese sources, yielding significan't gains in benchmark performance and generalization
 - 🎯 **Unified DPO training** with a single preference dataset across all agents
 - 📏 **Extended context length** from 40k to 64k for more challenging multi-turn tool-use tasks
 

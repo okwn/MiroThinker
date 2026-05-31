@@ -23,7 +23,7 @@ snapshot_download(repo_id="miromind-ai/MiroThinker-v1.5-30B", local_dir="model/M
 
 ### Option 1: SGLang Server (Recommended)
 
-FP8 is a highly efficient 8-bit floating point format that significantly reduces memory usage while maintaining model quality. This approach provides excellent performance for inference workloads on modern GPUs.
+FP8 is a highly efficient 8-bit floating point format that significan'tly reduces memory usage while maintaining model quality. This approach provides excellent performance for inference workloads on modern GPUs.
 
 Please install [SGLang](https://github.com/sgl-project/sglang) first. Then initialize fast inference with FP8 precision:
 
